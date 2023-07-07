@@ -1,0 +1,10 @@
+{
+    "name": "Slow Metabolism",
+    "description": "Due to your slow metabolism, you exhaust less.",
+    "type": "origins:modify_exhaustion",
+    "modifier": {
+        "operation": "multiply_base_additive",
+        "value": -0.4,
+        "name": "slow_exhaust"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Turtle",
+    "description": "You are a bipedal turtle, the aquatic variant of shelled reptiles, and objectively the 2nd best animal.",
+    "powers": [
+        "turtor:turtor_cold_blooded",
+        "turtor:tur_flippers",
+        "turtor:turtor_vegetarian",
+        "turtor:turtor_bulky_shell",
+        "turtor:tur_enter_shell_turtle",
+        "turtor:tur_turtle_diet",
+        "turtor:turtor_slow_metabolism",
+        "turtor:tur_turtle_shell",
+        "turtor:tur_water_vision",
+        "turtor:tur_lay_egg",
+        "turtor:tur_hold_breath_turtle",
+        "turtor:turtor_extra_shell_armor",
+        "turtor:turtor_extra_shell_armor_toughness"
+    ],
+    "icon": {
+        "item": "minecraft:kelp"
+    },
+    "impact": 2
+}

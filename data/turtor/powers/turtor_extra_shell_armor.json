@@ -1,0 +1,20 @@
+{
+    "name": "Extra Shell",
+    "description": "Turtle helmets give the same armor and armor toughness as netherite helmets.",
+    "condition": {
+        "type": "origins:equipped_item",
+        "equipment_slot": "head",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:turtle_helmet"
+            }
+        }
+    },
+    "type": "origins:modify_attribute",
+    "attribute": "minecraft:generic.armor",
+    "modifier": {
+        "operation": "add_base_late",
+        "value": 1.5
+    }
+}

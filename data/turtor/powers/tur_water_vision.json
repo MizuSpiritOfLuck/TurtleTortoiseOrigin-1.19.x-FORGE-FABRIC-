@@ -1,0 +1,10 @@
+{
+    "hidden": true,
+    "condition": {
+        "type": "origins:submerged_in",
+        "fluid": "minecraft:water"
+    },
+    "type": "origins:toggle_night_vision",
+    "active_by_default": true,
+    "strength": 1
+}

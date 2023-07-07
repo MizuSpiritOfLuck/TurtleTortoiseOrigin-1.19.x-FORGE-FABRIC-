@@ -1,0 +1,12 @@
+{
+    "name": "Tortoise Shell",
+    "description": "Your natural shell helps protect you by giving you 6 armor bars.",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.armor",
+        "operation": "addition",
+        "value": 12,
+        "name": "tortoise_shell"
+    },
+    "update_health": false
+}

@@ -1,0 +1,18 @@
+{
+    "hidden": true,
+    "type": "origins:modify_food",
+    "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "item": "minecraft:beetroot"
+        }
+    },
+    "food_modifier": {
+        "operation": "addition",
+        "value": 7
+    },
+    "saturation_modifier": {
+        "operation": "addition",
+        "value": 11.6
+    }
+}

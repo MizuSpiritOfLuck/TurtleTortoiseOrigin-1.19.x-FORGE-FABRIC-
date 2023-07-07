@@ -1,0 +1,7 @@
+{
+    "origins": [
+        "turtor:turtle",
+        "turtor:tortoise"
+    ],
+    "enabled": true
+}

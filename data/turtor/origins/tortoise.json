@@ -1,0 +1,24 @@
+{
+    "name": "Tortoise",
+    "description": "You are a bipedal tortoise, the terrestrial variant of shelled reptiles, and objectively the best animal.",
+    "powers": [
+        "turtor:turtor_cold_blooded",
+        "turtor:tor_slow_and_steady",
+        "turtor:turtor_vegetarian",
+        "turtor:turtor_bulky_shell",
+        "turtor:tor_enter_shell_tortoise",
+        "turtor:tor_tortoise_diet",
+        "turtor:tor_tortoise_diet_beetroot",
+        "turtor:tor_tortoise_diet_carrot",
+        "turtor:tor_tortoise_diet_potato",
+        "turtor:turtor_slow_metabolism",
+        "turtor:tor_tortoise_shell",
+        "turtor:tor_cant_swim",
+        "turtor:turtor_extra_shell_armor",
+        "turtor:turtor_extra_shell_armor_toughness"
+    ],
+    "icon": {
+        "item": "minecraft:turtle_helmet"
+    },
+    "impact": 2
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Bulky Shell",
+    "description": "Due to your large shell, you can't wear a chestplate.",
+    "type": "origins:conditioned_restrict_armor",
+    "chest": {
+        "type": "origins:is_equippable"
+    },
+    "tick_rate": 80
+}

@@ -1,0 +1,18 @@
+{
+    "hidden": true,
+    "type": "origins:modify_food",
+    "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "item": "minecraft:carrot"
+        }
+    },
+    "food_modifier": {
+        "operation": "addition",
+        "value": 5
+    },
+    "saturation_modifier": {
+        "operation": "addition",
+        "value": 9.2
+    }
+}

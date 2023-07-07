@@ -1,0 +1,5 @@
+{
+    "name": "Can't Swim",
+    "description": "Due to your heavy shell, it makes it impossible to swim.",
+    "type": "origins:ignore_water"
+}

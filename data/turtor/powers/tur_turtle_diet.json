@@ -1,0 +1,19 @@
+{
+    "name": "Turtle Diet",
+    "description": "Dried Kelp nourishes you as much as Steak would for a human.",
+    "type": "origins:modify_food",
+    "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "item": "minecraft:dried_kelp"
+        }
+    },
+    "food_modifier": {
+        "operation": "addition",
+        "value": 7
+    },
+    "saturation_modifier": {
+        "operation": "addition",
+        "value": 12.2
+    }
+}

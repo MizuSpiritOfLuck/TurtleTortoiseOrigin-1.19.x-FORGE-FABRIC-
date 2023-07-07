@@ -1,0 +1,27 @@
+{
+    "name": "Slow and Steady",
+    "description": "Due to your... um... mass.... You have slowness one and 50% knockback resistance at all times.",
+    "type": "origins:multiple",
+    "modifier": {
+        "type": "origins:modify_attribute",
+        "attribute": "generic.knockback_resistance",
+        "modifier": {
+            "operation": "multiply_base_additive",
+            "value": 0.5
+        }
+    },
+    "slowness": {
+        "type": "origins:action_over_time",
+        "interval": 1,
+        "entity_action": {
+            "type": "origins:apply_effect",
+            "effect": {
+                "effect": "minecraft:slowness",
+                "duration": 100,
+                "amplifier": 0,
+                "show_particles": false,
+                "show_icon": true
+            }
+        }
+    }
+}
