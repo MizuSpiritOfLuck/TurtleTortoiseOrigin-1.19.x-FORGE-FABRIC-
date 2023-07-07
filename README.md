@@ -1,5 +1,5 @@
-<p style="text-align: center;"><a href="https://legacy.curseforge.com/minecraft/mc-mods/turtle-tortoise-origin"><img src="https://imgur.com/B3j0yEh.png" width="1167" height="284" /></a></p>
-<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><a href="https://www.curseforge.com/minecraft/texture-packs/turtle-and-tortoise-origins"><img src="https://imgur.com/B3j0yEh.png" width="955" height="140" /></a></p>
 <p style="text-align: center;"><span style="font-size: 36px; color: #339966;"><strong><img src="https://imgur.com/jZqFkMd.png" alt="" width="1125" height="280" /></strong></span></p>
 <p style="text-align: center;"><span style="font-size: 24px;"><strong><img src="https://imgur.com/x6x0L6F.png" alt="" width="1125" height="822" /></strong></span></p>
 <p style="text-align: center;"><img src="https://imgur.com/QGm0TMZ.png" alt="" width="1125" height="822" /></p>
