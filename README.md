@@ -7,3 +7,6 @@
 <p style="text-align: center;"><span style="font-size: 24px;"><strong><img src="https://imgur.com/B6gMn7W.png" alt="" width="1125" height="822" /></strong></span></p>
 <p style="text-align: center;"><span style="font-size: 24px;"><strong><img src="https://imgur.com/hwPggGM.png" alt="" width="1125" height="291" /></strong></span></p>
 <p style="text-align: center;"><img src="https://imgur.com/BUgwMMu.png" alt="" width="1125" height="822" /></p>
+<p style="text-align: center;"><span style="font-size: 36px;">Mod Commissioned By CheezBallzFTW</span></p>
+<p style="text-align: center;"><span style="font-size: 24px;">Credit for the mod idea and power names/descriptions should go to him.</span></p>
+<p style="text-align: center;"><span style="font-size: 18px;">P.S.: I no longer take commissions.</span></p>
